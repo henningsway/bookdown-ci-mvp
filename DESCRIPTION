@@ -9,33 +9,5 @@ Depends:
     R (>= 3.1.0)
 Imports: 
     bookdown,
-    dbplyr,
-    desc,
-    emo,
-    furrr,
-    ggplot2,
-    inline,
     knitr,
-    lineprof,
-    lobstr,
-    memoise,
-    microbenchmark,
-    png,
-    pryr,
-    Rcpp,
-    readr,
-    rlang,
-    rmarkdown,
-    RSQLite,
-    scales (>= 1.0.0),
-    sessioninfo,
-    sloop,
-    stringr,
-    testthat,
-    zeallot
-Remotes: 
-    hadley/emo,
-    hadley/lineprof,
-    r-lib/lobstr,
-    r-lib/sloop,
-    r-lib/rlang
+    rmarkdown
