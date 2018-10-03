@@ -1,4 +1,5 @@
 book_filename: "bookdown_ci_mvp"
+edit: https://github.com/henningsway/bookdown-ci-mvp/edit/master/%s
 language:
   ui:
     chapter_name: "Chapter "
