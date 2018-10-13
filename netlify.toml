@@ -1,0 +1,11 @@
+[Settings]
+# Added automatically by the Netlify CLI. It has no effect during normal 
+# Git-backed deploys.
+ID = "0c247eb5-c48e-45f0-9c7d-9b7a6c746df2"
+
+# Settings in the [build] context are global and are applied to all contexts 
+# unless otherwise overridden by more specific contexts.  
+[build]
+  # Directory to change to before starting a build. 
+  # This is where we will look for package.json/.nvmrc/etc.
+  publish = "_book/"

@@ -18,5 +18,5 @@ script:
 
 deploy:
   provider: script
-  script: netlify deploy $NETLIFY_PUBLISH_KEY
+  script: netlify deploy
   skip_cleanup: true
